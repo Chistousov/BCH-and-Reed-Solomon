@@ -21,6 +21,11 @@
 
 ![cyclic code](cyclic_code.png "cyclic code")
 
+Сначала лучше начать с разбора БЧХ, а потом переходить на Рида-Соломона.
+
+## Алгоритм Берлекэмпа-Месси
+![Berlekamp–Massey](Berlekamp–Massey_algorithm.PNG "Berlekamp–Massey")
+
 
 Неплохая реализация Конечных полей [тут](https://jeremykun.com/2014/03/13/programming-with-finite-fields/)
 
