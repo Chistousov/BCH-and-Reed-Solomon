@@ -21,6 +21,9 @@
 
 ![cyclic code](cyclic_code.png "cyclic code")
 
+В Galois field.ipynb определено поле Галуа, которое используемтся в коде БЧХ и в коде Рида-Соломона.
+В Extended Euclid's Algorithm.ipynb описан расширенный алгоритм Евклида.
+Derivative of the Galois field of characteristic 2.ipynb пример производной поля характеристики 2.
 Сначала лучше начать с разбора БЧХ, а потом переходить на Рида-Соломона.
 
 ## Алгоритм Берлекэмпа-Месси
